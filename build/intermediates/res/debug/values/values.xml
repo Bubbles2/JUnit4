@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/dfinlay-air/Downloads/cw-omnibus-master/Testing/JUnit4/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add">Add</string>
+    <string name="app_name">Action Bar Fragment Demo</string>
+    <string name="reset">Reset</string>
+    <string name="word">Word</string>
+</resources>
